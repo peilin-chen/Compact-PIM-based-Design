@@ -3,4 +3,5 @@ This repository contains the code associated with "Optimizing and Exploring Syst
 
 # Reference Repositories
 NeuroSim: https://github.com/neurosim/DNN_NeuroSim_V1.4
+
 DRAMPower: https://github.com/tukl-msd/DRAMPower 
