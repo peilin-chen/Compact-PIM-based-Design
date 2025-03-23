@@ -13,7 +13,6 @@ NN weights to improve the throughput and energy efficiency of inference in compa
   journal={arXiv preprint arXiv:2502.21259},
   year={2025}
 }
-
 ```
 
 ## Reference Repositories
